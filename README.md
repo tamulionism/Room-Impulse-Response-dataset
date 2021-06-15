@@ -17,6 +17,8 @@ Sound source - Genelec 8010A
 
 Receiver microphone - Sonarworks XREF 20
 
+Sound card and preamplifiers - RME FireFace UC
+
 Room width (X) - 5.36 m
 
 Room length (Y) - 5.85 m
@@ -44,5 +46,3 @@ Coordinates of Receiver No. 13 (m) - 2.68 x 4.00 x 1.20
 Coordinates of Receiver No. 21 (m) - 3.68 x 5.00 x 1.20
 
 Coordinates of Receiver No. 25 (m) - 1.68 x 5.00 x 1.20
-
-
